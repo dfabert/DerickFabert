@@ -1,2 +1,22 @@
+body {
+    background-image: url('Photos/Background_Image.jpg');
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 100%;
+}
 
+.links {
+    padding: 20px;
+}
 
+h1, p {
+    color: whitesmoke
+}
+
+.container-sm  {
+    background-color: rgba(0, 0, 0, 0.95);
+}
+
+p {
+    padding-left: 10px;
+}
