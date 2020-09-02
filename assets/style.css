@@ -2,7 +2,8 @@ body {
     background-image: url('Photos/Background_Image.jpg');
     background-repeat: no-repeat;
     background-position: left top;
-    background-size: 100%;
+    background-color: black;
+    background-size: cover;
 }
 
 .links {
